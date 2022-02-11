@@ -12,4 +12,4 @@ This the question we are trying to answer. While there maybe numerous reasons wh
 Use of predicting churn
 It would be most beneficial to understand that if a group of customers who are depending on a certain service is causing and issue. Predicting the group of users and their common attribute could help triangulate the source of problem and eliminate it before churn.
 
-More at [Churn Prediction Notebook](Churn Prediction.ipynb)
+More at [Churn Prediction Notebook](https://github.com/AshwinDeshpande96/Churn-Prediction-Investment-Company/blob/main/Churn%20Prediction.ipynb)
