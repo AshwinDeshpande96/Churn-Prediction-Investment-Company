@@ -13,3 +13,19 @@ This the question we are trying to answer. While there maybe numerous reasons wh
 It would be most beneficial to understand that if a group of customers who are depending on a certain service is causing and issue. Predicting the group of users and their common attribute could help triangulate the source of problem and eliminate it before churn.
 
 More at [Churn Prediction Notebook](https://github.com/AshwinDeshpande96/Churn-Prediction-Investment-Company/blob/main/Churn%20Prediction.ipynb)
+
+## Results
+
+| Model                           | AUC      |
+|---------------------------------|----------|
+| Neural Network                  | 0.927761 |
+| AdaBoost                        | 0.920597 |
+| Logistic Regression             | 0.918806 |
+| Naive Bayes                     | 0.890448 |
+| Decision Tree                   | 0.878209 |
+| Random Forest                   | 0.737612 |
+| Gaussian Process                | 0.573731 |
+| Nearest Neighbors               | 0.500000 |
+| Linear SVM                      | 0.500000 |
+| RBF SVM                         | 0.500000 |
+| Quadratic Discriminant Analysis | 0.390448 |
